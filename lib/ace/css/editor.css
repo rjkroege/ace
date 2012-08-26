@@ -1,8 +1,11 @@
 .ace_editor {
     position: absolute;
     overflow: hidden;
-    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Droid Sans Mono', 'Consolas', monospace;
-    font-size: 12px;
+    
+    /*
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Droid Sans Mono', 'Consolas', monospace;*/
+    font-family: 'SourceSansPro', 'Helvetica', 'Arial';
+    font-size: 11px;
 }
 
 .ace_scroller {
